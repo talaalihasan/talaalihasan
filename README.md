@@ -1,6 +1,6 @@
 ### Hi!
 
-My name is Tala Ali-Hasan. I am a graduating Master of Public Policy student from the Harrirs School of Public Policy at The University of Chicago. I have certificates in data analytics (with a concentration in R) and international development. I have a Bachelor's of Arts in Public Policy from The University of Chicago. I also speak Spanish fluently, and I am conversational in French and Arabic. I am interested in data analytics, data engineering, and consulting for social good. 
+My name is Tala Ali-Hasan. I am a graduating Master of Public Policy student from the Harris School of Public Policy at The University of Chicago. I have certificates in data analytics (with a concentration in R) and international development. I have a Bachelor's of Arts in Public Policy from The University of Chicago. I also speak Spanish fluently, and I am conversational in French and Arabic. I am interested in data analytics, data engineering, and consulting for social good. 
 
 <!--
 **talaalihasan/talaalihasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
